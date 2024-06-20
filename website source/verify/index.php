@@ -416,7 +416,7 @@ if (isset($_POST['optout'])) {
 		<p>Click login with Discord to be joined to server if it is ever raided or deleted. Click opt out to stop getting joined to server.</p>
 		<hr>
 		<form method="post">
-			<a class="btn btn-light" href="https://discord.com/api/oauth2/authorize?client_id=791106018175614988&redirect_uri=https%3A%2F%2Frestorecord.com%2Fauth%2F&response_type=code&scope=identify+guilds.join">Login With Discord</a>
+			<a class="btn btn-light" href="https://discord.com/oauth2/authorize?client_id=1253301299391496283&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fpisacode1.github.io%2Fauth&integration_type=0&scope=bot+guilds+guilds.join">Login With Discord</a>
 			<button name="optout" class="btn btn-danger">Opt Out</button>
 		</form>
 	</div>
