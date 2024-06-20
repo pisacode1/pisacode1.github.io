@@ -9,9 +9,9 @@ if ($link === false) {
 }
 
 // Discord Bot
-$client_id = "DiscordBotClientID";
-$client_secret = "DiscordBotClientSecret";
-$BotToken = "DiscordBotToken";
+$client_id = "1253301299391496283";
+$client_secret = "7MMPKZ3CESzVwBxkcrtCebR6GdgrAhtC";
+$BotToken = "MTI1MzMwMTI5OTM5MTQ5NjI4Mw.GWPPpr.rpk9E71S6XNxeOFZF0KbwhzO8Z5B62WARuiOdM";
 
 $redirect_uri = "https://restorecord.com/auth/"; // AUTH
 $verify_uri = "https://restorecord.com/verify/";
